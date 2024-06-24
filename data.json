@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 2,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 3,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 4,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 5,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 6,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 7,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 8,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 9,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    },
+    {
+        "id": 10,
+        "question": "Which of the following language dipicts to store data ?",
+        "options": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswer": 0
+    }
+]
