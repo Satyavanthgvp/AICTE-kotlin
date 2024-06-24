@@ -1,0 +1,44 @@
+package com.example.quizapp
+import com.google.gson.Gson
+import java.net.URL
+
+object Constants {
+    val USER_NAME: String = "user_name"
+    val TOTAL_QUESTIONS: String = "total_questions"
+    val SCORE: String = "score"
+
+    fun getQuestions(): ArrayList<Question> {
+        val questionsList = ArrayList<Question>()
+
+        val url = "https://raw.githubusercontent.com/Satyavanthgvp/AICTE-kotlin/main/data.json"
+
+        // Fetch data from URL
+        val jsonString = URL(url).readText()
+
+        // Parse JSON using Gson
+        val dataList = parseJson(jsonString)
+
+        // Use dataList
+
+        for (data in dataList) {
+
+            val questionOne = Question(
+                data.id,
+                data.questionText,
+                data.alternatives,
+                data.correctAnswerIndex,
+            )
+            questionsList.add(questionOne)
+        }
+
+        return questionsList
+    }
+
+
+    fun parseJson(jsonString: String): List<Question> {
+        val gson = Gson()
+        return gson.fromJson(jsonString, Array<Question>::class.java).toList()
+    }
+
+
+}
