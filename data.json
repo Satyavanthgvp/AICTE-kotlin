@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "questionText": "Which of the following language dipicts to store data ?",
+        "questionText": "Which of the following language dipicts to store datas ?",
         "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
         "correctAnswerIndex": 0
     },
