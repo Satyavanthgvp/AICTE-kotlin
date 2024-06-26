@@ -28,5 +28,13 @@
         "questionText": "Which of the following language dipicts to store datas ?",
         "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
         "correctAnswerIndex": 0
+    },
+
+    {
+        "id": 6,
+        "questionText": "Which are your ?",
+        "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "correctAnswerIndex": 0
     }
+    
 ]
