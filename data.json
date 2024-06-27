@@ -1,40 +1,32 @@
 [
     {
         "id": 1,
-        "questionText": "Which of the following language dipicts to store datas ?",
+        "questionText": "Which of the following language dipicts to store data?",
         "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
         "correctAnswerIndex": 0
     },
     {
         "id": 2,
-        "questionText": "Which of the following language dipicts to store data ?",
-        "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
+        "questionText": "Which data structure is used for implementing recursion?",
+        "alternatives": ["STACK", "QUEUE", "LIST", "ARRAY"],
         "correctAnswerIndex": 0
     },
     {
         "id": 3,
-        "questionText": "Which of the following language dipicts to store data ?",
-        "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
-        "correctAnswerIndex": 0
+        "questionText": "What is the value of the postfix expression 6 3 2 4 + – *?",
+        "alternatives": ["74", "-18", "22", "40"],
+        "correctAnswerIndex": 1
     },
     {
         "id": 4,
-        "questionText": "Which of the following language dipicts to store data ?",
-        "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
-        "correctAnswerIndex": 0
+        "questionText": "What is the time complexity for inserting/deleting at the beginning of the array?",
+        "alternatives": ["O(1)", "O(n)", "O(logn)", "O(nlogn)"],
+        "correctAnswerIndex": 1
     },
      {
         "id": 5,
-        "questionText": "Which of the following language dipicts to store datas ?",
-        "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
-        "correctAnswerIndex": 0
-    },
-
-    {
-        "id": 6,
-        "questionText": "Which are your ?",
-        "alternatives": ["SQL", "JAVA", "CPP", "PYTHON"],
-        "correctAnswerIndex": 0
+        "questionText": " In linked list each node contains a minimum of two fields. One field is data field to store the data second field is?",
+        "alternatives": ["Pointer to character", "Pointer to integer", " Pointer to node", "Node"],
+        "correctAnswerIndex": 2
     }
-    
 ]
